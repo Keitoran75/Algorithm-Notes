@@ -1,4 +1,4 @@
-#UNION-FIND
+# UNION-FIND
 The algorithm we  define should give the result whether two input points: *p* and *q* are connected based on the network.
 ```python3
 UF(int N) # initialize N sites with interger names(0 to N-1)
